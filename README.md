@@ -40,4 +40,4 @@ Clone or download this repository.
 
 Open the PDF to review the complete project design and implementation phases.
 
-Use as a reference for Salesforce Certification, academic projects, or interview preparation.
+
