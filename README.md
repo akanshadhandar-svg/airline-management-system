@@ -1,8 +1,14 @@
-Description
+Authororpstone Project – Salesforce CRM
 
-This project demonstrates a Salesforce CRM implementation for capturing, tracking, and converting leads generated from social media campaigns such as Instagram, Facebook, and LinkedIn.
-The system automates lead assignment, monitors campaign performance, and provides real-time dashboards for conversion tracking and ROI measurement.
-Key Features
+Project Title: Social Media Lead Capture & Tracking – Salesforce CRM for Marketing Campaigns
+
+Description:
+
+Salesforce CRM implementation for capturing, tracking, and converting leads generated from social media campaigns (Instagram, Facebook, LinkedIn).
+
+Automates lead assignment, monitors campaign performance, and provides real-time dashboards for conversion tracking and ROI measurement.
+
+Key Features:
 
 Lead Management – Automatically capture and assign leads from social media campaigns.
 
@@ -14,7 +20,7 @@ Lead Conversion – Convert qualified leads into opportunities with clear deal s
 
 Reports & Dashboards – Track leads by source, campaign ROI, and conversion funnel.
 
- Tech Stack
+Tech Stack:
 
 Salesforce (Admin + Developer concepts)
 
@@ -24,13 +30,14 @@ Automation: Validation Rules, Flows, Email Alerts
 
 Reporting: Dashboards, ROI Tracking
 
- Files
+Files:
 
 Social Media Lead Capture Salesforce Project – Full project documentation
- Usage
+
+Usage:
 
 Clone or download this repository.
 
 Open the PDF to review the complete project design and implementation phases.
 
-Can be used as a reference for Salesforce Certification, academic projects, or interview preparation.
+Use as a reference for Salesforce Certification, academic projects, or interview preparation.
